@@ -1,6 +1,6 @@
 {
-    "name": "Unlock Hideout Kindergarten Customization",
-    "version": "1.0.0",
+    "name": "Hideout Kindergarten Unlocker",
+    "version": "1.1.0",
     "main": "src/mod.js",
     "license": "MIT",
     "author": "desze",
